@@ -1,0 +1,21 @@
+.codeView
+{
+  background-attachment: initial; 
+  background-clip: initial; 
+  background-color: #252525; 
+  background-origin: initial; 
+  background-position: initial; 
+  background-repeat: initial; 
+  background-size: initial; 
+  background: rgb(25, 25, 25) none repeat scroll 0% 0%; 
+  border: 5px outset orange; 
+  color: white; 
+  font-family: arial; 
+  font-size: larger; 
+  font-weight: bolder; 
+  overflow: auto; 
+  padding-left: 10px; 
+  text-align: left; 
+  width: 99%; 
+  border-radius:20px;
+}
